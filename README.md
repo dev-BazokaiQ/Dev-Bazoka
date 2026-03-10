@@ -3,5 +3,5 @@ hi
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+im'bAzOka!;I'm+Hussein;Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+im'bAzOka!;I'm+bazoka;Full+Stack+Developer" />
 </p>
